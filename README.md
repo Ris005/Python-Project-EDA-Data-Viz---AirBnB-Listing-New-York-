@@ -4,7 +4,7 @@
 
 Python Project EDA & Data Viz - AirBnB Listing (New York)
 
-![](https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
+![](https://github.com/Ris005/Python-Project-EDA-Data-Viz---AirBnB-Listing-New-York-/blob/main/Python-Project-P2-New-York-AirBnb-Listing-2024-main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
 
 ---
 
